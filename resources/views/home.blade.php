@@ -14,26 +14,22 @@
           <div class="pr-4"><strong>23k</strong> followers</div>
           <div class="pr-4"><strong>212</strong> following</div>
         </div>
+        <div class="pt-4 font-weight-bold">freeCodeCamp.org</div>
+        <div>We're a global community of millions of people learning to code together. We're an open source, donor-supported, 501(c)(3) nonprofit.</div>
+        <div><a href="#">www.freecodecamp.org</a></div>
     </div>
   </div>
 
-
-    <!-- <div class="row justify-content-center">
-        <div class="col-md-8">
-            <div class="card">
-                <div class="card-header">Dashboard</div>
-
-                <div class="card-body">
-                    @if (session('status'))
-                        <div class="alert alert-success" role="alert">
-                            {{ session('status') }}
-                        </div>
-                    @endif
-
-                    You are logged in!
-                </div>
-            </div>
-        </div>
-    </div> -->
+  <div class="row pt-5">
+    <div class="col-4">
+      <img src="https://instagram.fpet4-1.fna.fbcdn.net/v/t51.2885-15/e35/c94.0.561.561a/89850472_191188785511119_1802925729717063601_n.jpg?_nc_ht=instagram.fpet4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=5TeJXOIxNrkAX8069zu&oh=1e90489587580e1ace88533caa6506db&oe=5EA4CE93" class="w-100">
+    </div>
+    <div class="col-4">
+      <img src="https://instagram.fpet4-1.fna.fbcdn.net/v/t51.2885-15/e35/c94.0.561.561a/89850472_191188785511119_1802925729717063601_n.jpg?_nc_ht=instagram.fpet4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=5TeJXOIxNrkAX8069zu&oh=1e90489587580e1ace88533caa6506db&oe=5EA4CE93" class="w-100">
+    </div>
+    <div class="col-4">
+      <img src="https://instagram.fpet4-1.fna.fbcdn.net/v/t51.2885-15/e35/c94.0.561.561a/89850472_191188785511119_1802925729717063601_n.jpg?_nc_ht=instagram.fpet4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=5TeJXOIxNrkAX8069zu&oh=1e90489587580e1ace88533caa6506db&oe=5EA4CE93" class="w-100">
+    </div>
+  </div>
 </div>
 @endsection
